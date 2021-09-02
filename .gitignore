@@ -1,0 +1,3 @@
+VOCdevkit
+model_data/centernet_hourglass_coco.pth
+model_data/centernet_resnet50_voc_old.pth
